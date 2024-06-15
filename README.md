@@ -1,3 +1,4 @@
+![1_YkgY5ktTU3GKsx5khORfwg](https://github.com/Sarthakverse/oAuth2.0/assets/117356021/cd5ddd12-fd3b-402c-b963-c165e6eb829c)
 
 # oAuth 2.0 with Google
 This project demonstrates the implementation of "Login with Google" functionality in a Spring Boot 3.3.0 application. Here's how it works:
