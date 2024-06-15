@@ -33,8 +33,8 @@ public class SecurityConfig {
 
 //    private ClientRegistration googleClientRegistration() {
 //        return ClientRegistration.withRegistrationId("google")
-//                .clientId("296668176981-oudogqckejtencte1bd5198q23u5189n.apps.googleusercontent.com")
-//                .clientSecret("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")
+//                .clientId("add your id here")
+//                .clientSecret("add your secret key here")
 //                .clientAuthenticationMethod(ClientAuthenticationMethod.CLIENT_SECRET_BASIC)
 //                .authorizationGrantType(AuthorizationGrantType.AUTHORIZATION_CODE)
 //                .redirectUri("{baseUrl}/login/oauth2/code/{registrationId}")
