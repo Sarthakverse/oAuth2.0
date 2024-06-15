@@ -9,6 +9,16 @@ This project demonstrates the implementation of "Login with Google" functionalit
 4. **Registration**: If the user is logging in for the first time and is not yet registered, they will be directed to a registration form to complete their profile and get fully registered.
 5. This setup ensures a smooth and secure way for users to authenticate and register using their Google accounts.
 
+
+## Technology Used
+
+![Java 17](https://img.shields.io/badge/Java-17-green.svg)
+![SpringBoot 3.3.0](https://img.shields.io/badge/SpringBoot-3.3.0-yellow.svg)
+![OAuth2.0](https://img.shields.io/badge/Google-oAuth2.0-blue.svg)
+![Html & Css](https://img.shields.io/badge/Html-Css-blue.svg)
+![Postgresql](https://img.shields.io/badge/Database-postgres-blue.svg)
+
+
 ###  Roles
 - **`Client`**: The Spring Boot application acts as the client. It requests access to the user's resources (like their Google profile information) on behalf of the user.
 - **`Authorization Server`**: Google’s OAuth 2.0 server acts as the authorization server. It handles user authentication and gets their consent to share specific resources with the client application.
